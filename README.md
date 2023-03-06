@@ -18,9 +18,11 @@ To use the UoY fonts, include the below in the `<head>` section of your code:
 <style>
   body {
     font-family: Graphik, sans-serif;
-    }
-    h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.lead {
-      font-family: "York Grot", sans-serif;
-    }
+  }
+  h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.lead {
+    font-family: "York Grot", sans-serif;
+  }
 </style>
 ```
+
+*These fonts are only available when accessed from within the UoY network or other authorised domains.*
