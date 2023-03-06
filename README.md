@@ -12,7 +12,6 @@ To use it as your style sheet, include the following line in the `<head>` sectio
 
 To use the UoY fonts, include the below in the `<head>` section of your code:
 ```
-<link rel="stylesheet" href="https://sztrokay.github.io/uoy-bootstrap/bootstrap-york.css">
 <link rel="stylesheet" href="https://www.york.ac.uk/static/2/fonts/graphik.css">
 <link rel="stylesheet" href="https://www.york.ac.uk/static/2/fonts/yorkgrot.css">
 <style>
